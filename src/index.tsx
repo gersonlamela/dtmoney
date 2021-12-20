@@ -14,7 +14,7 @@ createServer({
       {
        id:1,
        title: 'Iphone 14 Pro Max',
-       type: ' deposit',
+       type: 'deposit',
        category: 'Phone',
        amount : 1500,
        createdAt: new Date('2021-12-02 09:00:00'),
